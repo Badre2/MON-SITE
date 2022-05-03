@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     	  <title>MON CV</title>
+            <link rel="stylesheet" type="text/css" href="css/style.css">
+     	  </head>
+                  <meta charset="utf-8">
+     	  <body>
+
+     	  <table border="1">
+     	  	<tr><td>Niamey,Quartier Haroubada<br>téléphone:80293980,Email:badirouabioladaga@gmail.com<br><strong>DAGA BADIROU ABIOLA DAGA</strong></td/></tr>
+     	  	<tr><td><em>ETAT CIVIL</em><br><ul>
+     	  		<li>Situation matrimniale:Célibataire</li>
+     	  		<li>Nationalité:NIGERIENNE</li>
+     	  		<li>Lieu de naissance: Niamey</li>
+     	  		<li>Date de naissance:21 SEPTEMBRE 1998</li>
+     	  	</ul>
+     	  	</td></tr>
+     	  	<tr><td><em>OBJECTIFS</em><br>Acquérir des nouvelles compétences pour pouvoir manager dans plusieurs domaines.</td></tr>
+     	  	<tr><td><em>FORMATIONS</em><br><ul>
+     	  		<li>2O20 Université Abdoul Moumouni Dioffo de Niamey<br><strong>2 EME ANNEE EN BIOLOGIE ET FONCTIONNEMENT DES ORGANISMES</strong></li>
+     	  		<li>2017 Complexe scolaire ligue slamique mondial de Niamey<br><strong>BACCALAUREAT DE L'ENSEIGNEMENT SECONDAIRE,SERIE D</strong></li>
+     	  		<li>2014 CSP Cheik Anta Diop de Niamey<br><strong>BREVET D'ETUDES DU PREMIER CYCLE</strong></li>
+     	  		</ul></td></tr>
+     	  	<tr><td><em>CARACTERES</em><br><ul>
+     	  		<li>Ouverture d'esprit</li>
+     	  		<li>Adaptabilité</li>
+     	  		<li>Dévouement</li>
+     	  		<li>Respectueux</li></td></tr>
+     	  	<tr><td><em>LOISIRS ET INTERETS PERSONNELS</em><br><ul>
+     	  		<li>Poésie</li>
+     	  		<li>Lecture</li>
+     	  		<li>Humour</li>
+     	  	</ul></td></tr>
+     	  	<tr><td><em>LANGUES</em><br><ul>
+     	  		<li>Français:bon</li>
+     	  		<li>Anglais:des notions</li>
+     	  		<li>Haoussa:des notions</li>
+     	  		<li>Zarma:des notions</li>
+                 </ul></td></tr>
+            </table>
+            </body>
+            </html>
+     	  	
+
+
